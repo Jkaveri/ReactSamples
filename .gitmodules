@@ -1,0 +1,3 @@
+[submodule "egghead-flux-architecture"]
+	path = egghead-flux-architecture
+	url = https://github.com/joemaddalone/egghead-flux-architecture
